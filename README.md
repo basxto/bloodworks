@@ -1,4 +1,4 @@
-## Bloodworks
+# Bloodworks
 
 Bloodworks is a free top-down survival action game where you fight against an endless waves of monsters. The odds are not in your favor!
 
@@ -10,17 +10,17 @@ Bloodworks is still in development. Once it is finished, it will be completely f
 
 If you want to contribute to the project or simply give feedback, my email address is (mail <at> enginmercan.com). Source code can be found in my Github Page if you are interested.
 
-The game can be played downloaded on Steam <a href="http://store.steampowered.com/app/717990/Bloodworks/">Steam</a> or <a href="http://store.steampowered.com/app/717990/Bloodworks/">itchi.io</a>
+The game can be played downloaded on Steam [Steam](http://store.steampowered.com/app/717990/Bloodworks/) or [itchi.io](https://taytay.itch.io/bloodworks)
 
 Controls
 
-    WASD: Move Around
-    Mouse: Aim
-    Left Click: Shoot
-    Right Click: Ultimate
-    R: Reload
-    Tab: Open perk menu (if leveled up)
-    F10 - Toggle full screen
+- WASD: Move Around
+- Mouse: Aim
+- Left Click: Shoot
+- Right Click: Ultimate
+- R: Reload
+- Tab: Open perk menu (if leveled up)
+- F10: Toggle full screen
 
 You can find more information in readme.txt *cough*andcheats*cough*.
 
@@ -30,10 +30,10 @@ Enjoy!
 
 ## Sneak peak
 
-<img src="https://raw.githubusercontent.com/shultays/bloodworks/master/0.gif" width="350">
+![](./0.gif)
 
-<a href="https://www.youtube.com/watch?v=J6nBlytRQSM">Trailer (YouTube)</a>
-<a href="https://www.youtube.com/watch?v=Fjxbh8k15z8">Gameplay video (YouTube)</a>
+- [Trailer (YouTube)](https://www.youtube.com/watch?v=J6nBlytRQSM)
+- [Gameplay video (YouTube)](https://www.youtube.com/watch?v=Fjxbh8k15z8)
 
 ## Documentation
 
@@ -45,11 +45,11 @@ Documentation for scripting part will be here.
 - OpenGL for rendering. 
 - SDL2/glew to make things easier and cross-platform.
 - Lua for scripting. Heavy work is done on C++ side while gameplay is mostly on Lua.
-- json reader of nlohmann (https://github.com/nlohmann/json)
-- sol2 for C++ & Lua interaction (https://github.com/ThePhD/sol2/)
+- [json reader of nlohmann](https://github.com/nlohmann/json)
+- [sol2](https://github.com/ThePhD/sol2/) for C++ & Lua interaction
 - soloud for sounds (http://sol.gfxile.net/soloud/)
 - Art is mostly from http://opengameart.org/. Check credits for more information.
 
 ## License
 
-Bloodworks is distributed with a GPLv3 License. You can see [LICENSE.md](https://raw.githubusercontent.com/shultays/bloodworks/master/LICENCE.md) for more information.
+Bloodworks is distributed with a GPLv3 License. You can see [LICENSE.md](./LICENCE.md) for more information.
